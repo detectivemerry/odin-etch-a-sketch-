@@ -1,0 +1,19 @@
+.box{
+    border: 2px solid lightblue;
+    padding: 10px;
+    flex:1;
+}
+
+.flex-box-container{
+    display:flex;
+    gap:50px;
+    justify-content: space-evenly;
+}
+
+.selection{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    justify-content: center;
+    flex:1;
+}
